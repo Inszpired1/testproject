@@ -1,0 +1,11 @@
+site_name: Version 1 Cloud Service Portfolio
+pages:
+- Services:
+  - Strategy: 'strategy.md'
+  - Design: 'design.md'
+  - Transition: 'transition.md'
+  - Operate: 'operate.md'
+  - Improve: 'improve.md'
+- Programmes:
+  - Migration Programme: migration-programe.md
+theme_dir: 'docs/v1theme/v1theme'
