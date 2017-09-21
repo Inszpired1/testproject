@@ -22,7 +22,7 @@ __Owner__ - Shane Test NEW!!
 __Description__ - Version 1 drives the automation of cloud integrations and deployments. Automation reduces human error and cost while boosting performance and security. We design custom automated processes for our customers.
 ___
 ##License Optimisation
-__Owner__ -
+__Owner__ - Lloyd
  
 __Description__ -  The cloud has changed how vendors are managing their licenses. The Version 1 SAM team are experts in licensing, their consultancy services have saved our customers millions in licensing costs. [Learn more](http://www.version1.com/SAM/)
 ___
