@@ -17,7 +17,7 @@ __Owner__ - Ronan Laffan
 __Description__ - Version 1 ensure that our team stay on top of the latest developments from our cloud partners. We ensure that the architectures we design for our customers leverage the most suitable tools and services available. We will recommend the best approach and services for your business' outcomes.
 ___
 ##Automation Design
-__Owner__ - Updated
+__Owner__ - 
 
 __Description__ - Version 1 drives the automation of cloud integrations and deployments. Automation reduces human error and cost while boosting performance and security. We design custom automated processes for our customers.
 ___
